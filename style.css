@@ -1,0 +1,26 @@
+/* Page Height Required for Scroll Bar to Appear */
+body {
+    height: 400vh;
+}
+
+/* Font Layout */
+p {
+    text-align: center;
+    font-size: 30px;
+}
+
+/* Scrollbar Width */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* Scrollbar Background Color */
+::-webkit-scrollbar-track {
+    background: #dddd;
+}
+
+/* Scroll Bar Color */
+::-webkit-scrollbar-thumb {
+    background: #212121;
+    border-radius: 20px;
+}
