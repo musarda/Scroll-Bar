@@ -1,5 +1,4 @@
-# Scroll-Bar
-Editing Scrollbars in HTML and CSS
+# Scroll-Bar Editing Scrollbars in HTML and CSS
 
 
 YoTube Channel:https://www.youtube.com/channel/UCbgwI1yLYACWmTu34W7nXSw/about
